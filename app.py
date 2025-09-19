@@ -2,6 +2,10 @@
 A simple Hello World application.
 """
 
+def test():
+    """Test function to ensure the main function works correctly."""
+    print("Test function executed successfully.")
+
 def main():
     """Main function that prints Hello World message."""
     print("Hello, World!")
