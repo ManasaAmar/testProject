@@ -1,6 +1,4 @@
-"""
-A simple Hello World application.
-"""
+
 
 def main():
     """Main function that prints Hello World message."""
