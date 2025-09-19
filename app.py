@@ -1,6 +1,4 @@
-"""
-A simple Hello World application.
-"""
+
 
 def test():
     """Test function to ensure the main function works correctly."""
